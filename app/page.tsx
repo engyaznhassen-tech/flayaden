@@ -1160,7 +1160,7 @@ export default function Home() {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© 2026 طيران عدن. نموذج واجهة تفاعلية.</span>
+          <span>© 2026 طيران عدن. يزن حسن  .</span>
           <span>من عدن… نقرّب لك العالم</span>
         </div>
       </footer>
